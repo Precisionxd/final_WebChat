@@ -86,6 +86,7 @@ Această aplicație de chat web este dezvoltată utilizând **Spring Boot** pent
 4. Trimiteți mesaje și atașați fișiere.
 5. Schimbați parola sau deconectați-vă dacă este necesar.
 
-## 7. Concluzii
-Această aplicație de chat oferă o experiență interactivă de comunicare, fiind securizată și optimizată pentru WebSockets. Poate fi extinsă ușor prin adăugarea de noi funcționalități, cum ar fi integrarea cu notificări push sau suport pentru mai multe tipuri de conținut multimedia.
+## 7. Diagrama ER
+![ER](https://github.com/user-attachments/assets/ca4999d6-d0bf-467f-897b-986790c92468)
+
 
